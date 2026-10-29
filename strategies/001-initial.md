@@ -1,0 +1,1 @@
+# Jurisdictional Defi Lending Rate Arbitrage\n**Status**: implemented\n**Source idea**: Jurisdictional DeFi Lending Rate Arbitrage\n\n## Core Mechanism\n*To be filled with detailed mechanism description*\n\n## Capital Requirement*To be filled*\n\n## Expected Return*To be filled*\n\n## Risks*To be filled*\n\n## Implementation Notes*Generated from pipeline on 2026-10-29*
